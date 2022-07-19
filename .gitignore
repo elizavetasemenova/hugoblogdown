@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+/public/
+/resources/
+.Rproj.user
+.hugo_build.lock
+.Rhistory
