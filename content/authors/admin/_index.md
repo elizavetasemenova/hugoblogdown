@@ -1,49 +1,46 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Bayesian inference, spatial statistics and epidemiology.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD (summa cum laude) in Epidemiology 
+    institution: University of Basel
+    year: 2019
+  - course: Diploma (first class honours) in Mathematics
+    institution: Moscow State Univeristy
     year: 2008
-email: ""
+email: "elizaveta.p.semenova<at>gmail.com"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatiotemporal Statistics
+- Gaussian Processes
+- Deep generative models
+- Bayesian survey design
+- Epidemiological applications
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Oxford
+  url: https://www.ox.ac.uk/
+role: Postdoctoral Research Associate
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/liza_p_semenova
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=jqGIgFEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/elizavetasemenova
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/elizaveta-semenova/
 superuser: true
-title: Nelson Bighetti
+title: Elizaveta Semenova
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Postdoctoral Reserach Associate at the University of Oxford in the Department of Computer Science working on scalable methods for flexible modelling of spatiotemporal data. My current interests include deep generative models to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my [resumé](https://www.dropbox.com/s/jpl6un8u9h2rvg8/CV_academic_20220515.pdf?dl=0).
