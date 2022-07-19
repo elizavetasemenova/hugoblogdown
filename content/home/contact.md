@@ -13,25 +13,22 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  autolink: false
 
   # Contact details (edit or remove options as required)
-  address:
-    street: 7 Parks Road
-    city: Oxford
-    region: 
-    postcode: 'OX1 3QG'
-    country: United Kingdom
-    country_code: UK
+  contact_links:
+    - icon: envelope
+      icon_pack: fas
+      name: elizaveta.p.semenova\<at\>gmail.com
+      link: /#contact
+    - icon: twitter
+      icon_pack: fab
+      name: DM me
+      link: 'https://twitter.com/liza_p_semenova'
+    - icon: linkedin
+      icon_pack: fab
+      name: Connect
+      link: https://www.linkedin.com/in/elizaveta-semenova/
 
 design:
   columns: '2'
