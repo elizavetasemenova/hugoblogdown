@@ -43,4 +43,4 @@ title: Elizaveta Semenova
 I am Postdoctoral Reserach Associate at the University of Oxford in the Department of Computer Science working on scalable methods for flexible modelling of spatiotemporal data. My current interests include deep generative models to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
 
 
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://www.dropbox.com/s/jpl6un8u9h2rvg8/CV_academic_20220515.pdf?dl=0).
+{{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).
