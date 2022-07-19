@@ -11,8 +11,8 @@ education:
 email: "elizaveta.p.semenova<at>gmail.com"
 highlight_name: true
 interests:
-- Spatiotemporal Statistics
-- Gaussian Processes
+- Spatiotemporal statistics
+- Gaussian processes
 - Deep generative models
 - Bayesian survey design
 - Epidemiological applications
