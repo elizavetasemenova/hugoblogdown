@@ -23,5 +23,5 @@ publishDate: "2022-07-22T00:00:00Z"
 slides: 
 summary: XVIth International Congress of Toxicology
 tags: []
-title: "Capturing uncertainty in toxicity profiling models"
+title: "Capturing uncertainty in toxicity profiling models (talk)"
 ---
