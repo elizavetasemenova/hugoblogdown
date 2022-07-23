@@ -8,20 +8,20 @@ address:
   street: 
 all_day: true
 authors: []
-date: "2022-08-21T15:00:00Z"
+date: "2022-08-19T15:00:00Z"
 date_end: 
-event: Deep Learning Indaba
-event_url: https://deeplearningindaba.com/2022/
+event: 
+event_url: 
 featured: false
 image:
   caption: 
   focal_point: 
-location: Tunis, Tunisia
+location: Oxford, Statistics Department
 projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
-summary: Deep Learning Indaba
+summary: 
 tags: []
 title: "Uniq+: DeepMind social lunches"
 ---
