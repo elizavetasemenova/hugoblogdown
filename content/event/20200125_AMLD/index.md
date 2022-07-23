@@ -1,5 +1,5 @@
 ---
-abstract:  
+abstract: Talk "Building an ordered logistic regression model for toxicity prediction".
 address:
   city: 
   country: 
@@ -8,21 +8,21 @@ address:
   street: 
 all_day: true
 authors: []
-date: "2022-08-19T15:00:00Z"
+date: "2020-11-05T15:00:00Z"
 date_end: 
-event: 
+event: PyMCon conference
 event_url: 
 featured: false
 image:
   caption: 
   focal_point: 
-location: Oxford, Statistics Department
+location: remote
 projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
 summary: 
 tags: []
-title: "Uniq+: DeepMind social lunches"
+title: "PyMCon-2020 conference"
 share: false
 ---

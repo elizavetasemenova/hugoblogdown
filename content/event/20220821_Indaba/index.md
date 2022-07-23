@@ -1,5 +1,5 @@
 ---
-abstract:  I will gieve a lecture with the title "Introduction to Mathematics and Statistics for Machine Learning"
+abstract:  I will give a lecture with the title "Introduction to Mathematics and Statistics for Machine Learning"
 address:
   city: 
   country: 
@@ -21,7 +21,8 @@ projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
-summary: 
+summary: Lecture "Introduction to Mathematics and Statistics for Machine Learning"
 tags: []
 title: "Deep Learning Indaba"
+share: false
 ---

@@ -34,6 +34,7 @@ publishDate: "2022-06-29T00:00:00Z"
 summary: Encoding spatial priors with variational autoencoders for small-area estimation
 tags: []
 title: 'PriorVAE: encoding spatial priors with variational autoencoders for small-area estimation'
+share: false
 url_code: "https://github.com/elizavetasemenova/priorvae"
 url_dataset: ""
 url_pdf: "https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0094"

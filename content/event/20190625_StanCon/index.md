@@ -1,5 +1,5 @@
 ---
-abstract:  
+abstract: Poster presentation "Predicting severity of drug-induced liver injury with uncertainty".
 address:
   city: 
   country: 
@@ -8,21 +8,21 @@ address:
   street: 
 all_day: true
 authors: []
-date: "2022-08-19T15:00:00Z"
+date: "2019-06-25T15:00:00Z"
 date_end: 
-event: 
+event: StanCon 2019
 event_url: 
 featured: false
 image:
   caption: 
   focal_point: 
-location: Oxford, Statistics Department
+location: Cambridge, UK
 projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
 summary: 
 tags: []
-title: "Uniq+: DeepMind social lunches"
+title: "StanCon-2019"
 share: false
 ---
