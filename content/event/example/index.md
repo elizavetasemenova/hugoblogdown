@@ -12,7 +12,7 @@ date: "2022-09-21T15:00:00Z"
 date_end: 
 event: XVIth International Congress of Toxicology
 event_url: https://www.ict2022.com/
-featured: flase
+featured: false
 image:
   caption: 
   focal_point: 
