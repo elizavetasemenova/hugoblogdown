@@ -40,7 +40,9 @@ superuser: true
 title: Elizaveta Semenova
 ---
 
-I am Postdoctoral Reserach Associate at the University of Oxford in the Department of Computer Science working on scalable methods for flexible modelling of spatiotemporal data. My current interests include deep generative models to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
+I am a Postdoctoral Research Associate at the University of Oxford in the Department of Computer Science working on scalable methods and flexible models for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology and public policy. I work with [Seth Flaxman](https://mlgh.net/author/seth-flaxman/) as well as a wider [Machine Learning & Global Health Network](https://mlgh.net/author/seth-flaxman/).  My current interests include deep generative models to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
+
+Previously, I was a postdoc in Bayesian Machine Learning at AstraZeneca R&D (Cambridge, UK) and completed a PhD in Epidemiology and Biostatistics at the Swiss TPH (Basel, Switzerland).
 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).
