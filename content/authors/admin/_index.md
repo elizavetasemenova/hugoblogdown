@@ -42,7 +42,9 @@ title: Elizaveta Semenova
 
 I am a Postdoctoral Research Associate at the University of Oxford in the Department of Computer Science working on scalable methods and flexible models for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. I work with [Seth Flaxman](https://mlgh.net/author/seth-flaxman/), as well as the wider [Machine Learning & Global Health Network](https://mlgh.net/author/seth-flaxman/). Currently, I am interested in using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
 
-Previously, I did a postdoc in Bayesian Machine Learning at AstraZeneca R&D and collaborated with [Prioris.ai](https://prioris.ai/), and completed a PhD in Epidemiology and Biostatistics at the Swiss TPH.
+Previously, I did a postdoc in Bayesian Machine Learning at AstraZeneca R&D where I also collaborated with [Prioris.ai](https://prioris.ai/), and completed a PhD in Epidemiology at the Swiss TPH.
 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).
+
+For more about my work, see my [publications](publication) and [talks](event). 
