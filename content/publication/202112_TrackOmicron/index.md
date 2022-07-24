@@ -32,7 +32,7 @@ publication_types:
 publishDate: "2022-07-29T00:00:00Z"
 #slides: example
 summary:
-tags: []
+tags: [epidemiology, covid19]
 title: 'Track Omicron’s spread with molecular data'
 share: false
 url_code: 
