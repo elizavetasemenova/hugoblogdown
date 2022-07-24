@@ -3,10 +3,10 @@ bio: My research interests include Bayesian inference, spatial statistics and ep
 education:
   courses:
   - course: PhD (summa cum laude) in Epidemiology 
-    institution: University of Basel
+    institution: Swiss Tropical and Public Health Institute (TPH), University of Basel, Switzerland
     year: 2019
   - course: Diploma (first class honours) in Mathematics
-    institution: Moscow State Univeristy
+    institution: Moscow State University, Russia
     year: 2008
 email: "elizaveta.p.semenova<at>gmail.com"
 highlight_name: true
@@ -40,9 +40,9 @@ superuser: true
 title: Elizaveta Semenova
 ---
 
-I am a Postdoctoral Research Associate at the University of Oxford in the Department of Computer Science working on scalable methods and flexible models for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology and public policy. I work with [Seth Flaxman](https://mlgh.net/author/seth-flaxman/) as well as a wider [Machine Learning & Global Health Network](https://mlgh.net/author/seth-flaxman/).  My current interests include deep generative models to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
+I am a Postdoctoral Research Associate at the University of Oxford in the Department of Computer Science working on scalable methods and flexible models for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. I work with [Seth Flaxman](https://mlgh.net/author/seth-flaxman/), as well as the wider [Machine Learning & Global Health Network](https://mlgh.net/author/seth-flaxman/). Currently, I am interested in using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
 
-Previously, I was a postdoc in Bayesian Machine Learning at AstraZeneca R&D (Cambridge, UK) and completed a PhD in Epidemiology and Biostatistics at the Swiss TPH (Basel, Switzerland).
+Previously, I did a postdoc in Bayesian Machine Learning at AstraZeneca R&D and collaborated with [Prioris.ai](https://prioris.ai/), and completed a PhD in Epidemiology and Biostatistics at the Swiss TPH.
 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).
