@@ -1,5 +1,5 @@
 ---
-abstract: Podcast "Gaussian Processes, Bayesian Neural Nets & SIR Models".
+abstract: Episode "Gaussian Processes, Bayesian Neural Nets & SIR Models".
 address:
   city: 
   country: 
@@ -19,7 +19,7 @@ image:
 location: remote
 projects:
 - example
-publishDate: "2022-07-22T00:00:00Z"
+publishDate: "2020-08-13T00:00:00Z"
 slides: 
 summary: 
 tags: []
