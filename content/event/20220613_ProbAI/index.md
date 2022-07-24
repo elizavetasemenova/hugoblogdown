@@ -21,7 +21,7 @@ projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
-summary: Talk "Bayesian workflow"
+summary: Lecture "Bayesian workflow"
 tags: []
 title: "Nordic Probabilistic AI School 2022"
 share: false

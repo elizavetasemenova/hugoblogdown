@@ -1,5 +1,5 @@
 ---
-abstract:  
+abstract:  Talk "Encoding spatial priors with VAEs for small area estimation"
 address:
   city: 
   country: 

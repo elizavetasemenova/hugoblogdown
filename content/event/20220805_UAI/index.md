@@ -21,7 +21,7 @@ projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
-summary: 
+summary: Talk at the 5th Workshop on Tractable Probabilistic Modeling
 tags: []
 title: "Unceratinty in Artificial Intelligence (UAI)"
 share: false

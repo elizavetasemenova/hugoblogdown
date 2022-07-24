@@ -1,5 +1,5 @@
 ---
-abstract: This talk was entitled "Bayesian workflow for disease transmission modeling in Stan"
+abstract: Talk "Bayesian workflow for disease transmission modeling in Stan"
 address:
   city: 
   country: 

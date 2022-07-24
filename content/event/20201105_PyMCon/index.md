@@ -1,5 +1,5 @@
 ---
-abstract: I gave a talk at the Applied Machine Learning Days (AMLD) conference entiteled "Bayesian Neural Networks for toxicity prediction".
+abstract: Talk "Building an ordered logistic regression model for toxicity prediction".
 address:
   city: 
   country: 
@@ -8,21 +8,21 @@ address:
   street: 
 all_day: true
 authors: []
-date: "2020-01-25T15:00:00Z"
+date: "2020-11-05T15:00:00Z"
 date_end: 
-event: Applied Machine Learning Days (AMLD) 
+event: PyMCon conference
 event_url: 
 featured: false
 image:
   caption: 
   focal_point: 
-location: Lausanne, Switzerland
+location: remote
 projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
 summary: 
 tags: []
-title: "Applied Machine Learning Days (AMLD) "
+title: "PyMCon-2020 conference"
 share: false
 ---

@@ -1,5 +1,5 @@
 ---
-abstract: Poster presentation "Predicting severity of drug-induced liver injury with uncertainty".
+abstract: Poster "Predicting severity of drug-induced liver injury with uncertainty".
 address:
   city: 
   country: 
