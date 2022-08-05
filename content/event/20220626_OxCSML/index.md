@@ -1,5 +1,5 @@
 ---
-abstract:  Talk "Encoding spatial priors with VAEs for small area estimation"
+abstract: Talk "Encoding spatial priors with VAEs for small area estimation".
 address:
   city: 
   country: 
@@ -26,3 +26,5 @@ tags: []
 title: "Oxford Computational Statistics and Machine Learning (OxCSML) seminar"
 share: false
 ---
+
+In this talk I presented our recent paper published in [Royal Society Interface](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0094).

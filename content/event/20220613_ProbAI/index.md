@@ -1,5 +1,5 @@
 ---
-abstract:  
+abstract: Lecture "Bayesian workflow". 
 address:
   city: 
   country: 
@@ -26,3 +26,7 @@ tags: []
 title: "Nordic Probabilistic AI School 2022"
 share: false
 ---
+
+I gave a lecture at the Noridc Probabilistic AI School 2022 in Helsinki, which was a fantastic experience. Many thanks to the organizers for the invitation and compilation of such an interesting curriculum. The slides of my lacture, as well as hands-on materials are available [here](https://github.com/elizavetasemenova/ProbAI-2022).  
+
+

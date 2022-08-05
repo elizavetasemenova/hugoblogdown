@@ -26,3 +26,8 @@ tags: []
 title: "PyMCon-2020 conference"
 share: false
 ---
+
+I gave a remote talk at the PyMCon-2020 virtual conference, demonstrating how to build an ordered logistic regression model for toxicity prediction wity PyMC. Recording of the talk is available on [YouTube](https://www.youtube.com/watch?v=fxydbmTfsk4&t=672s).
+
+
+

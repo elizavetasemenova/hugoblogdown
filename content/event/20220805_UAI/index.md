@@ -1,5 +1,5 @@
 ---
-abstract:  
+abstract: I presented some recent advances in Bayesian spatial modelling at the [5th Workshop on Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2022/index.html) of the Uncertainty in Artificial Intelligence (UAI) conference. Many thanks to the organisers for the invitations and their hard work!
 address:
   city: 
   country: 

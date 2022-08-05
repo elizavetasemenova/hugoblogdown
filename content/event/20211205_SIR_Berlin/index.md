@@ -26,3 +26,11 @@ tags: []
 title: "Berlin Bayesians Meetup"
 share: false
 ---
+
+Together with the co-authors of the publication "Bayesian workflow for disease transmission modeling in Stan" [published](https://onlinelibrary.wiley.com/doi/10.1002/sim.9164) in Statistics in Medicine we presented our work at the virtual Berlin Bayesians Meetup. The recording of the talk is availble on [YouTube](https://www.youtube.com/watch?v=im0IGMFDDOY&t=4251s).
+
+
+
+
+
+
