@@ -1,5 +1,5 @@
 ---
-abstract: I presented some recent advances in Bayesian spatial modelling at the [5th Workshop on Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2022/index.html) of the Uncertainty in Artificial Intelligence (UAI) conference. Many thanks to the organisers for the invitations and their hard work!
+abstract: Talk "Encoding spatial priors with VAEs for geospaial modelling".
 address:
   city: 
   country: 
@@ -24,6 +24,14 @@ slides:
 summary: Talk at the 5th Workshop on Tractable Probabilistic Modeling
 tags: []
 title: "Unceratinty in Artificial Intelligence (UAI)"
-share: false
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 share: false
 ---
+
+I presented some recent advances in Bayesian spatial modelling at the [5th Workshop on Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2022/index.html) of the Uncertainty in Artificial Intelligence (UAI) conference. Many thanks to the organisers for the invitations and their hard work!
+
+Slides of this talk are available [here](static/uploads/UAI_share.pdf).
+
