@@ -1,5 +1,5 @@
 ---
-abstract: This titled "Capturing uncertainty in toxicity profiling models (talk)" talk will focus on uncertainty quantification using Bayesian approaches, and showcase applications to liver- and cardio-toxicity predictions.
+abstract: This talk, titled "Capturing uncertainty in toxicity profiling models" will focus on uncertainty quantification using Bayesian approaches, and showcase applications to liver- and cardio-toxicity predictions.
 address:
   city: 
   country: 
