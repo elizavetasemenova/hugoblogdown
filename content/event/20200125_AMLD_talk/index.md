@@ -24,5 +24,13 @@ slides:
 summary: 
 tags: []
 title: "Applied Machine Learning Days (AMLD) "
+url_code: "https://github.com/elizavetasemenova/BNN_tox"
+url_pdf: ""
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=BCQ2oVlu_tY"
 share: false
 ---
+
+I gave a talk at the Applied Machine Learning Days (AMLD) 2020 conference concerning toxicity prediction using Bayesian neural networks.
+
+{{< youtube BCQ2oVlu_tY >}}

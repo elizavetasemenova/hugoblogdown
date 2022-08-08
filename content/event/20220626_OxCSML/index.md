@@ -24,6 +24,10 @@ slides:
 summary: 
 tags: []
 title: "Oxford Computational Statistics and Machine Learning (OxCSML) seminar"
+url_code: "https://github.com/elizavetasemenova/PriorVAE"
+url_pdf: ""
+url_slides: ""
+url_video: ""
 share: false
 ---
 

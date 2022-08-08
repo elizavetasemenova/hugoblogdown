@@ -24,5 +24,17 @@ slides:
 summary: 
 tags: []
 title: "Learning Bayesian Statistics podcast"
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=qeavM4plydE"
 share: false
 ---
+
+Alex Andorra runs a wonderful podcast where he interviews Bayesian practitioners of all career levels. I am a huge fan of the podcast myself, and this time got to be interviewed by him too. You can listen to our conversation, for example, on YouTube:
+
+
+{{< youtube qeavM4plydE >}}
+
+
+

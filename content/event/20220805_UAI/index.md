@@ -24,7 +24,7 @@ slides:
 summary: Talk at the 5th Workshop on Tractable Probabilistic Modeling
 tags: []
 title: "Unceratinty in Artificial Intelligence (UAI)"
-url_code: ""
+url_code: "https://github.com/elizavetasemenova/PriorVAE"
 url_pdf: ""
 url_slides: "https://github.com/elizavetasemenova/hugoblogdown/blob/main/static/uploads/UAI_share.pdf"
 url_video: ""
