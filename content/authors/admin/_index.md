@@ -40,11 +40,13 @@ superuser: true
 title: Elizaveta Semenova
 ---
 
-I am a Postdoctoral Research Associate at the University of Oxford in the Department of Computer Science working on scalable methods and flexible models for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. I work with [Seth Flaxman](https://mlgh.net/author/seth-flaxman/), as well as the wider [Machine Learning & Global Health Network](https://mlgh.net/author/seth-flaxman/). Currently, my focus is on using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
+I am a Postdoctoral Research Associate at the University of Oxford in the Department of Computer Science working on scalable and flexible methods for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. I work with [Seth Flaxman](https://mlgh.net/author/seth-flaxman/), as well as the wider [Machine Learning & Global Health](https://mlgh.net/author/seth-flaxman/) Network. Currently, my focus is on flexible and scalable spatial methods using MCMC enabled by deep generative modelling, as well as adaptive survey design.
 
-Previously, I did a postdoc in Bayesian Machine Learning at AstraZeneca R&D where I also collaborated with [Prioris.ai](https://prioris.ai/). My reserch there was dedicated to toxicity prediction and concentration-response curve fitting of large molecules. 
+Previously, I did a postdoc in Bayesian Machine Learning at AstraZeneca R&D where I also collaborated with [Prioris.ai](https://prioris.ai/). My research there was dedicated to toxicity prediction and concentration-response curve fitting of large molecules. 
 
-In 2019 I completed a PhD in Epidemiology at the Swiss TPH, where I worked on point pattern data modelling using Log-Gaussian Cox Process and detection of hotspots on gridded surfaces. 
+In 2019 I completed a PhD in Epidemiology at the Swiss TPH, where I worked on modelling of point patterns using Log-Gaussian Cox Process and detection of hotspots on gridded surfaces. 
+
+I am also passionate about community building, diversity and inclusion. I have initiated and participated in a number of outreach activities, creating equitable access and opportunties in education, research and technology.
 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).

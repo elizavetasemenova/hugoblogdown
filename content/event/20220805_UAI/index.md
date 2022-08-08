@@ -26,7 +26,7 @@ tags: []
 title: "Unceratinty in Artificial Intelligence (UAI)"
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/elizavetasemenova/hugoblogdown/blob/main/static/uploads/UAI_share.pdf"
 url_video: ""
 share: false
 ---
