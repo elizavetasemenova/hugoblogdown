@@ -17,7 +17,7 @@ image:
   preview_only: false
 projects:
 - example
-publication: Drug Discovery Today
+publication: In *Drug Discovery Today*
 publication_short:
 publication_types:
 - "2"
