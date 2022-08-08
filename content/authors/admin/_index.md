@@ -46,7 +46,7 @@ Previously, I did a postdoc in Bayesian Machine Learning at AstraZeneca R&D wher
 
 In 2019 I completed a PhD in Epidemiology at the Swiss TPH, where I worked on modelling of point patterns using Log-Gaussian Cox Process and detection of hotspots on gridded surfaces. 
 
-I am also passionate about community building, diversity and inclusion. I have initiated and participated in a number of outreach activities, creating equitable access and opportunties in education, research and technology. research.creating opportunities in technology and research for 
+I am also passionate about community building, diversity and inclusion. I have initiated and participated in a number of outreach activities, creating equitable access and opportunties in education, research and technology.
 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).
