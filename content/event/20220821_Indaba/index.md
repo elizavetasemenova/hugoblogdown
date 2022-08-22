@@ -24,5 +24,9 @@ slides:
 summary: Lecture "Introduction to Mathematics and Statistics for Machine Learning"
 tags: []
 title: "Deep Learning Indaba"
+url_code: ""
+url_pdf: ""
+url_slides: "https://github.com/elizavetasemenova/DeepLearningIndaba2022/blob/main/Deep_Learning_Indaba.pdf"
+url_video: ""
 share: false
 ---
