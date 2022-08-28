@@ -1,5 +1,5 @@
 ---
-abstract:  I will give a lecture with the title "Introduction to Mathematics and Statistics for Machine Learning" at Deep Learning Indaba 20222 in Tunis. The Deep Learning Indaba is the annual meeting of the African machine learning community with the mission to Strengthen African Machine Learning.
+abstract:  I will give a lecture with the title "Mathematics and Statistics for Machine Learning" at Deep Learning Indaba 2022 in Tunis. The Deep Learning Indaba is an annual meeting of the African machine learning community with the mission to Strengthen African Machine Learning.
 address:
   city: 
   country: 
