@@ -61,11 +61,11 @@ image:
   preview_only: false
 projects:
 - example
-publication: medRxiv
+publication: Nature Communications
 publication_short:
 publication_types:
 - "2"
-publishDate: "2021-08-26T00:00:00Z"
+publishDate: "2022-09-26T00:00:00Z"
 #slides: example
 summary:
 tags: []
