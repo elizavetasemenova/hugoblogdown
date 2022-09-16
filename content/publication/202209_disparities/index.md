@@ -52,7 +52,7 @@ authors:
 - Nuno R Faria
 - Danish Covid-19 Genome Consortium
 
-date: "2021-08-26T00:00:00Z"
+date: "2022-09-26T00:00:00Z"
 doi: "10.1101/2021.08.21.21262393"
 featured: true
 image:
