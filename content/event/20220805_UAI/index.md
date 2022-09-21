@@ -27,7 +27,7 @@ title: "Unceratinty in Artificial Intelligence (UAI)"
 url_code: "https://github.com/elizavetasemenova/PriorVAE"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=1Em3-IsejN4&t=97s"
 share: false
 ---
 
