@@ -27,7 +27,7 @@ title: "Nordic Probabilistic AI School 2022"
 url_code: "https://github.com/elizavetasemenova/ProbAI-2022"
 url_pdf: ""
 url_slides: "https://github.com/elizavetasemenova/ProbAI-2022"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=-GRdaXTRCko"
 share: false
 ---
 
