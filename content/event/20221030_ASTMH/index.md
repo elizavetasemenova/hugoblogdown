@@ -8,7 +8,7 @@ address:
   street: 
 all_day: true
 authors: []
-date: "2022-10-30T15:00:00Z"
+date: "2022-10-29T15:00:00Z"
 date_end: 
 event: ASTMH annual meeting 2022
 event_url: 
@@ -19,7 +19,7 @@ image:
 location: Seattle, US (remote)
 projects:
 - example
-publishDate: "2022-10-30T00:00:00Z"
+publishDate: "2022-10-24T00:00:00Z"
 slides: 
 summary: Poster "Mapping malaria prevalence in Kenya by reconciling changes in administrative boundaries using MCMC and deep learning"
 tags: []
