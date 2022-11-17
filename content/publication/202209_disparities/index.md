@@ -73,7 +73,7 @@ title: 'Global disparities in SARS-CoV-2 genomic surveillance'
 share: false
 url_code: 
 url_dataset: ""
-url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8404891/pdf/nihpp-2021.08.21.21262393v2.pdf"
+url_pdf: "https://www.nature.com/articles/s41467-022-33713-y"
 url_poster: ""
 url_project: ""
 url_slides: ""
