@@ -52,8 +52,8 @@ authors:
 - Nuno R Faria
 - Danish Covid-19 Genome Consortium
 
-date: "2022-09-26T00:00:00Z"
-doi: "10.1101/2021.08.21.21262393"
+date: "2022-11-16T00:00:00Z"
+doi: ""
 featured: true
 image:
   caption: 
@@ -61,11 +61,11 @@ image:
   preview_only: false
 projects:
 - example
-publication: Nature Communications
+publication: In *Nature Communications*
 publication_short:
 publication_types:
 - "2"
-publishDate: "2022-09-26T00:00:00Z"
+publishDate: "2022-11-16T00:00:00Z"
 #slides: example
 summary:
 tags: []
