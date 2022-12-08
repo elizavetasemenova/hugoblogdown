@@ -8,7 +8,7 @@ address:
   street: 
 all_day: true
 authors: []
-date: "2023-02-027T15:00:00Z"
+date: 
 date_end: 
 event: Bayesian inference using modern probabilistic programming tools
 event_url:
