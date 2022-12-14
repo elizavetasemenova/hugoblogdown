@@ -42,13 +42,17 @@ title: Elizaveta Semenova
 
 I am a postdoctoral research associate and [Schmidt Futures AI2050 Early Career Fellow](https://www.schmidtfutures.com/our-work/ai2050/) at the University of Oxford in the Department of Computer Science. My work is centered around scalable and flexible methods for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. Currently, my focus is on using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
 
-Previously, I was at Imperial College London, Department of Mathematics, Statistics section (2021-2022) and did a postdoc in Bayesian Machine Learning at AstraZeneca R&D (2019-2021) where I also collaborated with [Prioris.ai](https://prioris.ai/). My research at AstraZeneca was dedicated to toxicity prediction and concentration-response curve fitting of large molecules. 
+Previously, I worked at Imperial College London, Department of Mathematics, Statistics section (2021-2022) and did a postdoc in Bayesian Machine Learning at AstraZeneca R&D (2019-2021) where I also collaborated with [Prioris.ai](https://prioris.ai/). My research at AstraZeneca was dedicated to toxicity prediction and concentration-response curve fitting of large molecules using changepoint Gaussian Processes. 
 
-In 2019 I completed a PhD in Epidemiology at the Swiss TPH, where I worked on modelling of point patterns using Log-Gaussian Cox Process and detection of hotspots on gridded surfaces. 
+In 2019 I completed a PhD in Epidemiology at the [Swiss TPH](https://www.swisstph.ch/en/), where I worked on modelling of point pattern data using Log-Gaussian Cox Process and detection of hotspots on gridded surfaces. 
 
-I am also passionate about community building, diversity and inclusion. I have initiated and participated in a number of outreach activities, creating equitable access and opportunities in education, research and technology.
+<!---I am also passionate about community building, diversity and inclusion. I have initiated and participated in a number of outreach activities, creating equitable access and opportunities in education, research and technology. --->
+
+My most recent organisational activities include [ICLR'23](https://iclr.cc/Conferences/2023/CallForWorkshops) "First workshop on Machine Learning & Global Health" (lead organiser); [NeurIPS'22](https://gp-seminar-series.github.io/neurips-2022/) "Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems" (co-organiser); [Gaussian Processes](https://gp-seminar-series.github.io/) seminar series (co-oragniser); [Data Science](https://www.imperial.ac.uk/natural-sciences/research/data-science/) Theme Ambassador at Imperial College London.
 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).
 
 For more about my work, see the list of my recent [publications](publication) and [talks](event). 
+
+Currently I am co-oragnising a 
