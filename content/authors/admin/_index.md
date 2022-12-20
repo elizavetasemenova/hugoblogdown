@@ -48,7 +48,7 @@ In 2019 I completed a PhD in Epidemiology at the [Swiss TPH](https://www.swisstp
 
 <!---I am also passionate about community building, diversity and inclusion. I have initiated and participated in a number of outreach activities, creating equitable access and opportunities in education, research and technology. --->
 
-My most recent organisational activities include [ICLR'23](https://iclr.cc/Conferences/2023/CallForWorkshops) "First workshop on Machine Learning & Global Health" (lead organiser); [NeurIPS'22](https://gp-seminar-series.github.io/neurips-2022/) "Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems" (co-organiser); [Gaussian Processes](https://gp-seminar-series.github.io/) seminar series (co-oragniser); [Data Science](https://www.imperial.ac.uk/natural-sciences/research/data-science/) Theme Ambassador at Imperial College London.
+My most recent organisational activities include (1). [ICLR'23](https://iclr.cc/Conferences/2023/CallForWorkshops) "First workshop on Machine Learning & Global Health"; (2). [NeurIPS'22](https://gp-seminar-series.github.io/neurips-2022/) "Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems"; (3). [Gaussian Processes](https://gp-seminar-series.github.io/) seminar series; (4). [Data Science](https://www.imperial.ac.uk/natural-sciences/research/data-science/) Theme Ambassador at Imperial College London.
 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).

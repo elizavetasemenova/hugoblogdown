@@ -10,7 +10,7 @@ all_day: true
 authors: []
 date: 
 date_end: 
-event: Bayesian inference using modern probabilistic programming tools
+event: "Bayesian Scientific Computing and Probabilistic Programming: inside and outside the “black box”"
 event_url:
 featured: false
 image:
@@ -23,7 +23,7 @@ publishDate: "2023-02-27T00:00:00Z"
 slides: 
 summary: Workshop at SIAM Conference on Computational Science and Engineering
 tags: []
-title: Bayesian inference using modern probabilistic programming tools
+title: "Bayesian Scientific Computing and Probabilistic Programming: inside and outside the “black box”"
 url_pdf: ""
 share: false
 ---
