@@ -1,5 +1,5 @@
 ---
-abstract: I am co-organising the First Workshop on "Machine Learning & Global Health" hosted at ICLR 2023 on May 5 in Kigali, Rwanda & Virtual. More details are available [here](https://mlglobalhealth.github.io/iclr_2023/).
+abstract: I am co-organising the ICLR 2023 First Workshop on "Machine Learning & Global Health" hosted on May 5 in Kigali, Rwanda & Virtual. More details are available [here](https://mlglobalhealth.github.io/iclr_2023/).
 address:
   city: 
   country: 
@@ -10,7 +10,7 @@ all_day: true
 authors: []
 date: "2023-05-05T15:00:00Z"
 date_end: 
-event: First Workshop on "Machine Learning & Global Health", ICLR 2023
+event: ICLR 2023 First Workshop on "Machine Learning & Global Health"
 event_url: https://mlglobalhealth.github.io/iclr_2023/
 featured: false
 image:
@@ -21,9 +21,9 @@ projects:
 - example
 publishDate: "2022-07-22T00:00:00Z"
 slides: 
-summary: Organizing First Workshop on "Machine Learning & Global Health""
+summary: Organizing ICLR 2023 First Workshop on "Machine Learning & Global Health""
 tags: []
-title: 'First Workshop on "Machine Learning & Global Health", ICLR2023'
+title: 'ICLR 2023 First Workshop on "Machine Learning & Global Health"'
 url_code: 
 url_pdf: ""
 url_slides: 
