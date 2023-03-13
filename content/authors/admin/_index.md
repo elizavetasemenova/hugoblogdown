@@ -40,7 +40,7 @@ superuser: true
 title: Elizaveta Semenova
 ---
 
-I am a postdoctoral research associate and [Schmidt Futures AI2050 Early Career Fellow](https://www.schmidtfutures.com/our-work/ai2050/) at the University of Oxford in the Department of Computer Science. My work is centered around scalable and flexible methods for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. Currently, my focus is on using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
+I am a [Schmidt Futures AI2050 Early Career Fellow](https://www.schmidtfutures.com/our-work/ai2050/) at the University of Oxford in the Department of Computer Science. My work is centered around scalable and flexible methods for spatiotemporal statistics and Bayesian machine learning with applications in epidemiology. Currently, my focus is on using deep generative modelling to power MCMC inference in classical spatial statistics, as well as adaptive survey design.
 
 Previously, I worked at Imperial College London, Department of Mathematics, Statistics section (2021-2022) and did a postdoc in Bayesian Machine Learning at AstraZeneca R&D (2019-2021) where I also collaborated with [Prioris.ai](https://prioris.ai/). My research at AstraZeneca was dedicated to toxicity prediction and concentration-response curve fitting of large molecules using changepoint Gaussian Processes. 
 
