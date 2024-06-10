@@ -53,6 +53,8 @@ In 2019 I completed a PhD in Epidemiology at the [Swiss TPH](https://www.swisstp
 
 My most recent organisational activities include (1). [StanCon 2024](https://mc-stan.org/events/stancon2024/); (2). [ICLR'23](https://iclr.cc/Conferences/2023/CallForWorkshops) "First workshop on Machine Learning & Global Health"; (3). [NeurIPS'22](https://gp-seminar-series.github.io/neurips-2022/) "Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems"; (4). [Gaussian Processes](https://gp-seminar-series.github.io/) seminar series; (5). [Data Science](https://www.imperial.ac.uk/natural-sciences/research/data-science/) Theme Ambassador at Imperial College London.
 
+In spring 2024 I had an opportunity to teach a course "Bayesian Modelling and Probabilistic Programming with Numpyro" for the "AI for Science" MSc at the African Institute for Mathematical Sciences, South Africa. Lecture notes (some to be finalised) are available [online](https://elizavetasemenova.github.io/prob-epi). 
+
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](uploads/resume.pdf).
 
