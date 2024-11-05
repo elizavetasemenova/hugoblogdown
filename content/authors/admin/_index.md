@@ -52,7 +52,7 @@ Main outputs of the DGMs for MCMC theme (please cite PriorCVAE if you are using 
 
 - "Deep learning and MCMC with aggVAE for shifting administrative boundaries: mapping malaria prevalence in Kenya", **Semenova**, Mishra, Bhatt, Flaxman, Unwin
 
-- "PriorCVAE: scalable MCMC parameter inference with Bayesian deep generative modelling", **Semenova**, Verma, Cairney-Leeming, Solin, Flaxman
+- "PriorCVAE: scalable MCMC parameter inference with Bayesian deep generative modelling", **Semenova**, Verma, Cairney-Leeming, Solin, Bhatt, Flaxman
 
 Previously I worked at the University of Oxford, Computer Science (2022-2024) and Imperial College London, Department of Mathematics, Statistics section (2021-2022) with [Seth Flaxman](https://www.cs.ox.ac.uk/people/seth.flaxman/) and [MLGH](mlgh.net/people) network. Before that I did a postdoc in Bayesian Machine Learning at AstraZeneca R&D (2019-2021) where I also collaborated with [Prioris.ai](https://prioris.ai/). 
 
